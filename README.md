@@ -7,6 +7,7 @@ The goal of this project is to analyze sales data from multiple coffee shop loca
 
 ## column names:
 transaction_id : Unique sequential ID representing an individual transaction
+
 transaction_date : Date of the transaction (MM/DD/YY)
 
 transaction_time : Timestamp of the transaction (HH:MM:SS)
